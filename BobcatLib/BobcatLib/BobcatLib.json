@@ -7,7 +7,7 @@
   "mavenUrls": [
     "https://team2170.github.io/BobcatLib/BobcatLib/BobcatLib/repos"
   ],
-  "jsonUrl": "https://team2170.github.io/team2170.github.io/BobcatLib/BobcatLib/BobcatLib.json",
+  "jsonUrl": "https://team2170.github.io/BobcatLib/BobcatLib/BobcatLib.json",
   "javaDependencies": [
     {
       "groupId": "BobcatLib",
